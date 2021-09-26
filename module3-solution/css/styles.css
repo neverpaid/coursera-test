@@ -1,0 +1,36 @@
+
+#chicken {
+    text-align: center;
+    color: aliceblue;
+    background-color: #CD5C5C;
+}
+
+#beef {
+    text-align: center;
+    color: aliceblue;
+    background-color: #F08080;
+}
+
+#sushi {
+    text-align: center;
+    color: aliceblue;
+    background-color: #FA8072;
+}
+
+#style1 {
+    color: aliceblue;
+    background-color: #CD5C5C;
+    margin: 3%;
+}
+
+#style2 {
+    color: aliceblue;
+    background-color: #F08080;
+    margin: 3%;
+}
+
+#style3 {
+    color: aliceblue;
+    background-color: #FA8072;
+    margin: 3%;
+}
